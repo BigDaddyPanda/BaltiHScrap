@@ -1,0 +1,8 @@
+# facebook
+tweepy
+apiclient
+tiktok_bot
+google-api-python-client
+python-youtube
+tweepy
+pandas
