@@ -1,0 +1,42 @@
+[
+    {
+        "apifield": "created_at",
+        "displayfield": "created at"
+    },
+    {
+        "apifield": "id",
+        "displayfield": "id"
+    },
+    {
+        "apifield": "full_text",
+        "displayfield": "full text"
+    },
+    {
+        "apifield": "retweet_count",
+        "displayfield": "retweet count"
+    },
+    {
+        "apifield": "favorite_count",
+        "displayfield": "favorite count"
+    },
+    {
+        "apifield": "retweeted",
+        "displayfield": "retweeted"
+    },
+    {
+        "apifield": "user.name",
+        "displayfield": "user name"
+    },
+    {
+        "apifield": "user.screen_name",
+        "displayfield": "user screen_name"
+    },
+    {
+        "apifield": "user.profile_image_url",
+        "displayfield": "user profile_image_url"
+    },
+    {
+        "apifield": "user.profile_image_url_https",
+        "displayfield": "user profile_image_url_https"
+    }
+]
