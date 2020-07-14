@@ -24,5 +24,6 @@ flask run
 ```
 
 ## todo
+- customize dashboard to have summerizes
 - scrap custom date range
-- export custom fields
+- export custom fields and configure select/unselect buttons
